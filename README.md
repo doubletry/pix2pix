@@ -29,10 +29,10 @@ luarocks install https://raw.githubusercontent.com/szym/display/master/display-s
 git clone https://github.com/doubletry/pix2pix
 cd pix2pix
 ```
-- Download and unzip the dataset.zip to the datasets folder (http://xxx)
+- Download and unzip the dataset.zip to the datasets folder (https://pan.baidu.com/s/1Ip5tf7Trdh4288IB3oXg3g)
 
 
-- Download and unzip the pix2pix model to the checkpoints folder (http://xxx)
+- Download and unzip the pix2pix model to the checkpoints folder (https://pan.baidu.com/s/13hYCNxQqs-xNjgkuK1T7Uw)
 - Combine the images:
 ```bash
 python scripts/combine_A_and_B.py --fold_A ./datasets/colourblindness/A/ --fold_B ./datasets/colourblindness/B --fold_AB ./datasets/colourblindness/
