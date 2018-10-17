@@ -1,6 +1,6 @@
 
 # Color Vision Deficiency Datasets & Recoloring Evaluation using GANs 
-
+<img src="imgs/result.jpg">
 
 ## Setup
 
