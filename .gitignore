@@ -4,8 +4,8 @@
 *.DS_Store
 cache/
 results/
-checkpoints/
-
+#checkpoints/
+./dataset/colourblindness/
 # luarocks build files
 *.src.rock
 *.zip
