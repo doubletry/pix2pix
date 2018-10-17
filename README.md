@@ -26,10 +26,10 @@ luarocks install https://raw.githubusercontent.com/szym/display/master/display-s
 ```
 - Clone this repo:
 ```bash
-https://github.com/doubletry/pix2pix.git
+git clone https://github.com/doubletry/pix2pix.git
 cd pix2pix
 ```
-- Download and unzip the dataset.zip to the datasets folder (https://pan.baidu.com/s/1Ip5tf7Trdh4288IB3oXg3g) or run this:
+- Download and unzip the dataset.zip to the datasets folder (https://pan.baidu.com/s/1rCJt8yVkkfunlvU54Qxn_g) or run this:
 ```bash
 bash ./scripts/download_dataset.sh
 ```
