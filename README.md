@@ -1,15 +1,6 @@
 
-# pix2pix
-[[Project]](https://phillipi.github.io/pix2pix/)   [[Arxiv]](https://arxiv.org/abs/1611.07004)
-[[PyTorch]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+# Color Vision Deficiency Datasets & Recoloring Evaluation using GANs 
 
-Torch implementation for learning a mapping from input images to output images, for example:
-
-<img src="imgs/examples.jpg" width="900px"/>
-
-Image-to-Image Translation with Conditional Adversarial Networks  
- [Phillip Isola](http://web.mit.edu/phillipi/), [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)   
- CVPR, 2017.
 
 ## Setup
 
