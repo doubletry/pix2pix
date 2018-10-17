@@ -1,1 +1,2 @@
 wget -c --referer=https://pan.baidu.com/s/1Ip5tf7Trdh4288IB3oXg3g -O dataset.zip -P ./dataset/ "https://www.baidupcs.com/rest/2.0/pcs/file?method=batchdownload&app_id=250528&zipcontent=%7B%22fs_id%22%3A%5B930981085371108%5D%7D&sign=DCb740ccc5511e5e8fedcff06b081203:Aha3NgKH5lj154ErL1jHEgoA1ZY%3D&uid=522538700&time=1539828070&dp-logid=6712408673682816693&dp-callid=0&vuk=522538700&zipname=dataset.zip"
+unzip ./datasets/dataset.zip
