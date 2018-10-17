@@ -26,7 +26,7 @@ bash ./scripts/download_dataset.sh
 ```
 
 
-- Download and unzip the pix2pix model to the checkpoints folder (https://pan.baidu.com/s/13hYCNxQqs-xNjgkuK1T7Uw)
+- Download and unzip the pix2pix model to the checkpoints folder (https://pan.baidu.com/s/1AUl2SpSJp5YTjWWZJF7qSA)
 - Combine the images:
 ```bash
 python scripts/combine_A_and_B.py --fold_A ./datasets/colourblindness/A/ --fold_B ./datasets/colourblindness/B --fold_AB ./datasets/colourblindness/
